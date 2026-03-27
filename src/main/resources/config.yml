@@ -1,0 +1,13 @@
+# Ink Runtime Configuration
+
+# Debug mode (shows compilation info)
+debug: false
+
+# Auto-reload scripts on file changes
+auto-reload: true
+
+# Script execution timeout (ms)
+script-timeout: 5000
+
+# Maximum scripts to load
+max-scripts: 50
